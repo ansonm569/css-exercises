@@ -1,7 +1,9 @@
 * {
-    font-family: sans-serif;
+    font-family: "Dejavu Sans", sans-serif;
     font-size: 16px;
 }
+
+/* Not applying the font family universalls results in a different outcome than in the screenshot */
 
 #bluelarge {
     font-size: 36px;
@@ -16,10 +18,6 @@
 
 .red {
     background-color: rgb(255, 141, 141);
-}
-
-.font {
-    font-family: Verdana, Dejavu Sans, sans-serif;
 }
 
 .large {

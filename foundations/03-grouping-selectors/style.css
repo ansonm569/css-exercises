@@ -1,0 +1,16 @@
+.dark,
+.light {
+    font-size: 28px;
+    font-family: "Times New Roman", sans-serif;
+    text-align: center;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.light {
+    background-color: yellow;
+    color: black;
+}
